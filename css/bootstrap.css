@@ -2907,9 +2907,14 @@ input[type="button"].btn-block {
   content: "\f099";
 }
 
+.fa-linkedin-square:before {
+  content: "\f08c";
+}
+
 .fa-pinterest:before {
   content: "\f0d2";
 }
+
 .fa-google-plus:before {
   content: "\f0d5";
 }
