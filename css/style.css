@@ -581,7 +581,7 @@ border: 2px solid #fff;
 .team-leader ul li a.fa-facebook:hover{
 	color:#3b5998;
 }
-.team-leader ul li a.fa-linkedin-square:hover{
+.team-leader ul li a.fa-linkedin:hover{
 	color:#0077b5;
 }	
 .team-leader ul li a.fa-pinterest:hover{
@@ -677,7 +677,7 @@ border: 2px solid #fff;
 .facebook a:hover {
 	background: #3b5998;
 }
-.linkedin-square a:hover {
+.linkedin a:hover {
 	background: #0077b5;
 }
 .gplus a:hover {
