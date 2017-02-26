@@ -583,6 +583,9 @@ border: 2px solid #fff;
 }
 .team-leader ul li a.fa-linkedin:hover{
 	color:#0077b5;
+}	
+.team-leader ul li a.fa-pinterest:hover{
+	color:#cb2026;
 }
 .team-leader ul li a.fa-google-plus:hover{
 	color:#dd4b39;
